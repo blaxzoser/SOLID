@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=011cdb4d_002D36f0_002D40b7_002D86d0_002Dae5f84a95370/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldThrowException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0794C3FE-31AC-4763-BE7C-D8B9390D9D98::.NETCoreApp,Version=v3.1::Tiempo.Lab.SOLID.TEST.LisvokSubtitutionPrincipal.ViolationTest.ShouldThrowException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0794C3FE-31AC-4763-BE7C-D8B9390D9D98::.NETCoreApp,Version=v3.1::Tiempo.Lab.SOLID.TEST.LisvokSubtitutionPrincipal.ViolationTest.ShouldNotThrowException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0794C3FE-31AC-4763-BE7C-D8B9390D9D98::.NETCoreApp,Version=v3.1::Tiempo.Lab.SOLID.TEST.LisvokSubtitutionPrincipal.SolutionTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0794C3FE-31AC-4763-BE7C-D8B9390D9D98::.NETCoreApp,Version=v3.1::Tiempo.Lab.SOLID.TEST.LisvokSubtitutionPrincipal.ViolationTest.ShouldCalculateWithDifferentsClass&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0794C3FE-31AC-4763-BE7C-D8B9390D9D98::.NETCoreApp,Version=v3.1::Tiempo.Lab.SOLID.TEST.LisvokSubtitutionPrincipal.ViolationTest.ShouldGetAnIssueWithParent&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
