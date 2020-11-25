@@ -33,7 +33,7 @@ namespace Tiempo.Lab.SOLID.TEST.LisvokSubtitutionPrincipal
         [Test]
         public void ShouldCalculateWithDifferentsClass()
         {
-            var numbers = new int[] { 1,2,3,4,5,6,7,8,9 };
+            var numbers = new[] { 1,2,3,4,5,6,7,8,9 };
             
             SumCalculator sum = new SumCalculator(numbers);
             Assert.AreEqual(45, sum.Calculate());
@@ -46,7 +46,7 @@ namespace Tiempo.Lab.SOLID.TEST.LisvokSubtitutionPrincipal
         [Test]
         public void ShouldGetAnIssueWithParent()
         {
-            var numbers = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+            var numbers = new[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 
             SumCalculator sum = new SumCalculator(numbers);
             Assert.AreEqual(45, sum.Calculate());
