@@ -15,13 +15,13 @@ namespace Tiempo.Lab.SOLID.SingleResponsability.sample_interfaces
         void ShowBoard();
     }
 
-    interface IProducOwner
+    interface IProductOwner
     {
         void ChangeUserStory(int userStory);
     }
 
 
-    public class ScrumMasterMeting : ITeamMember, IProducOwner, IScrumMaster
+    public class ScrumMasterMeting : ITeamMember, IProductOwner, IScrumMaster
     {
         public void CreateTask(int userStory)
         {

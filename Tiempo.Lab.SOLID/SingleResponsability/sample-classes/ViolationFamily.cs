@@ -4,7 +4,7 @@ namespace Tiempo.Lab.SOLID.SingleResponsability
 {
     /// <summary>
     /// Violation Single responsibility  because we had more 1 things to do,
-    /// in terms on patricardo domain
+    /// in terms on  an actor mother multitasking 
     /// </summary>
     public class BadMother
     {
