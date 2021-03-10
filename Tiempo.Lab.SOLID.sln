@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiempo.Lab.SOLID", "Tiempo.Lab.SOLID\Tiempo.Lab.SOLID.csproj", "{435F20B5-FE99-4E99-8960-AC0A16797CC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tiempo.Lab.SOLID", "Tiempo.Lab.SOLID\Tiempo.Lab.SOLID.csproj", "{435F20B5-FE99-4E99-8960-AC0A16797CC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiempo.Lab.SOLID.TEST", "Tiempo.Lab.SOLID.TEST\Tiempo.Lab.SOLID.TEST.csproj", "{0794C3FE-31AC-4763-BE7C-D8B9390D9D98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tiempo.Lab.SOLID.TEST", "Tiempo.Lab.SOLID.TEST\Tiempo.Lab.SOLID.TEST.csproj", "{0794C3FE-31AC-4763-BE7C-D8B9390D9D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiempo.Console.OpenClosePrinciple.Violation", "Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\Tiempo.Console.OpenClosePrinciple.Violation.csproj", "{A98F96CA-7DFB-43A3-91AD-ACB41C4673ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiempo.Console.OpenClosePrinciple.Solution", "Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\Tiempo.Console.OpenClosePrinciple.Solution.csproj", "{1016B8C3-28D5-4C75-B3FB-2D2AAF2522A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{0794C3FE-31AC-4763-BE7C-D8B9390D9D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0794C3FE-31AC-4763-BE7C-D8B9390D9D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0794C3FE-31AC-4763-BE7C-D8B9390D9D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98F96CA-7DFB-43A3-91AD-ACB41C4673ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98F96CA-7DFB-43A3-91AD-ACB41C4673ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98F96CA-7DFB-43A3-91AD-ACB41C4673ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98F96CA-7DFB-43A3-91AD-ACB41C4673ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1016B8C3-28D5-4C75-B3FB-2D2AAF2522A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1016B8C3-28D5-4C75-B3FB-2D2AAF2522A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1016B8C3-28D5-4C75-B3FB-2D2AAF2522A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1016B8C3-28D5-4C75-B3FB-2D2AAF2522A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

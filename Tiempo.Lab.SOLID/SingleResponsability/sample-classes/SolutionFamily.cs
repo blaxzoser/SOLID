@@ -10,12 +10,12 @@ namespace Tiempo.Lab.SOLID.SingleResponsability
     {
         public void PlayWithChildren()
         {
-            Console.WriteLine("Play With Children");
+            System.Console.WriteLine("Play With Children");
         }
 
         public void WatchTv()
         {
-            Console.WriteLine("Watch Tv");
+            System.Console.WriteLine("Watch Tv");
         }
 
     }
@@ -29,12 +29,12 @@ namespace Tiempo.Lab.SOLID.SingleResponsability
         public double Bills { get; set; }
         public void Work()
         {
-            Console.WriteLine("Working hard!....");
+            System.Console.WriteLine("Working hard!....");
         }
 
         public void PayBills()
         {
-            Console.WriteLine("Pay Bills");
+            System.Console.WriteLine("Pay Bills");
         }
     }
 
@@ -45,12 +45,12 @@ namespace Tiempo.Lab.SOLID.SingleResponsability
     {
         public void CleanHouse()
         {
-            Console.WriteLine("Clean House");
+            System.Console.WriteLine("Clean House");
         }
 
         public void Cook()
         {
-            Console.WriteLine("Prepare dinner");
+            System.Console.WriteLine("Prepare dinner");
         }
     }
 

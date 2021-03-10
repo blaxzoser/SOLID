@@ -12,31 +12,31 @@ namespace Tiempo.Lab.SOLID.SingleResponsability
 
         public void Cook()
         {
-            Console.WriteLine("Prepare dinner");
+            System.Console.WriteLine("Prepare dinner");
         }
 
         public void Work()
         {
-            Console.WriteLine("Working hard!....");
+            System.Console.WriteLine("Working hard!....");
         }
 
         public void PlayWithChildren()
         {
-            Console.WriteLine("Play With Children");
+            System.Console.WriteLine("Play With Children");
         }
         public void PayBills()
         {
-            Console.WriteLine("Pay Bills");
+            System.Console.WriteLine("Pay Bills");
         }
 
         public void WatchTv()
         {
-            Console.WriteLine("Watch Tv");
+            System.Console.WriteLine("Watch Tv");
         }
 
         public void CleanHouse()
         {
-            Console.WriteLine("Clean House");
+            System.Console.WriteLine("Clean House");
         }
 
     }

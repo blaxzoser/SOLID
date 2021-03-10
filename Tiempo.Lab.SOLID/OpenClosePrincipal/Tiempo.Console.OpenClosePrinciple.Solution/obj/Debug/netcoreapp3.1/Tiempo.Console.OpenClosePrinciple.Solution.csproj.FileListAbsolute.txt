@@ -1,0 +1,12 @@
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\bin\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Solution.exe
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\bin\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Solution.deps.json
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\bin\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Solution.runtimeconfig.json
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\bin\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Solution.runtimeconfig.dev.json
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\bin\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Solution.dll
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\bin\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Solution.pdb
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Solution.AssemblyInfoInputs.cache
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Solution.AssemblyInfo.cs
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Solution.csproj.CoreCompileInputs.cache
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Solution.dll
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Solution.pdb
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Solution.genruntimeconfig.cache

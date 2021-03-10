@@ -1,0 +1,3 @@
+﻿CashPaymentMethod
+CreditCardPaymentMethod
+GiftCardPaymentMethod

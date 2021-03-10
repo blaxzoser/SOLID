@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KKAz0e76nWvpFEqrkE/n4H6DBhw7bFwLpLr9h7UUndoDtCQn1hrT5wdnh7vkrwRD4uep43up8tvycy4BE2pyQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luis pintado\\source\\repos\\Tiempo.Lab.SOLID\\Tiempo.Lab.SOLID\\OpenClosePrincipal\\Tiempo.Console.OpenClosePrinciple.Solution\\Tiempo.Console.OpenClosePrinciple.Solution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luis pintado\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\luis pintado\\.nuget\\packages\\microsoft.netcore.targets\\1.1.2\\microsoft.netcore.targets.1.1.2.nupkg.sha512",
+    "C:\\Users\\luis pintado\\.nuget\\packages\\system.console\\4.3.1\\system.console.4.3.1.nupkg.sha512",
+    "C:\\Users\\luis pintado\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\luis pintado\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\luis pintado\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\luis pintado\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

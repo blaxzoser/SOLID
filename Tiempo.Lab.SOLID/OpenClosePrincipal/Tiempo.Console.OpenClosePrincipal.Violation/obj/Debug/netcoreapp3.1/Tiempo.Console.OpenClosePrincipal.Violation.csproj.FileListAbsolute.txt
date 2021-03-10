@@ -1,0 +1,12 @@
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\bin\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrincipal.Violation.exe
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\bin\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrincipal.Violation.deps.json
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\bin\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrincipal.Violation.runtimeconfig.json
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\bin\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrincipal.Violation.runtimeconfig.dev.json
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\bin\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrincipal.Violation.dll
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\bin\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrincipal.Violation.pdb
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrincipal.Violation.AssemblyInfoInputs.cache
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrincipal.Violation.AssemblyInfo.cs
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrincipal.Violation.csproj.CoreCompileInputs.cache
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrincipal.Violation.dll
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrincipal.Violation.pdb
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrincipal.Violation.genruntimeconfig.cache
