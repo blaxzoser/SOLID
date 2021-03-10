@@ -7,57 +7,63 @@ namespace Tiempo.Lab.SOLID.OpenClosePrincipal.abstrac_sample
 
     namespace Tiempo.Lab.SOLID.OpenClosePrincipal
     {
-
-        public abstract class Service
+        public interface IProvider
         {
-            public double FoodCost { get; set; }
-            public abstract double Cost();
+            int GetDeliveryMan();
         }
 
-        class Uber : Service
+        public abstract class ServiceBase : IProvider
         {
+            public double FoodCost { get; set; }
+            public abstract double Cost();            
+            public virtual int GetDeliveryMan() { return 0; }
+        }
+      
+        public  class UberService : ServiceBase
+        {
+
+            public UberService(double foodCost)
+            {
+                FoodCost = foodCost;
+            }
+
             public double UberCar => 30;
-            public int DeliveryMan => 1;
+            public override int GetDeliveryMan ()  { return 2; }
             public double Taxes => UberCar * .01;
 
             public override double Cost()
             {
-                return (FoodCost * DeliveryMan) + UberCar  + Taxes; 
+                return (FoodCost * GetDeliveryMan()) + UberCar  + Taxes; 
             }
 
         }
 
-        class SeftServices : Service
+        public class RestaurantService : ServiceBase
         {
-            public int DeliveryMan => 10;
+            public override int GetDeliveryMan() { return 10; }
             public override double Cost()
             {
-                return (FoodCost * DeliveryMan);
+                return (FoodCost * GetDeliveryMan());
             }
         }
 
-        class Rappi : Service
+        public class RappiService : ServiceBase
         {
             public double RappiMotherCicle => 10;
-            public int DeliveryMan => 1;
+            public override int GetDeliveryMan() { return 2; }
 
             public override double Cost()
             {
-                return (FoodCost + DeliveryMan) * RappiMotherCicle;
+                return (FoodCost + GetDeliveryMan()) * RappiMotherCicle;
             }
         }
 
 
-        public class OrderFoodService
+        public class OrderFoodManagerService
         {
-            public double GetCostAllTypeServices(Service[] orderFood)
-            {
-                double cost = 0;
-                foreach (var order in orderFood)
-                {
-                    cost += order.Cost();
-                }
-                return cost;
+            public double GetCost(ServiceBase orderFood)
+            {             
+                return orderFood.Cost();
             }
         }
     }

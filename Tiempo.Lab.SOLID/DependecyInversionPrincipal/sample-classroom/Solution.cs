@@ -1,5 +1,5 @@
 ﻿
-namespace Tiempo.Lab.SOLID.DependecyInversionPrincipal.sample_classroom.Solution
+namespace Tiempo.Lab.SOLID.DependecyInversionPrincipal.sample_classroom.Solution 
 {
     //Abstractions 
     public interface  ITeacher

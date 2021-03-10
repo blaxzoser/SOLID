@@ -42,7 +42,6 @@ namespace Tiempo.Lab.SOLID.OpenClosePrincipal.sample_interfaces.Violations
                     case Cat cat:
                         cat.Cry();
                         break;
-
                 }
             }
         }

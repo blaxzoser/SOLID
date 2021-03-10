@@ -1,9 +1,9 @@
 ﻿using System;
 namespace Tiempo.Lab.SOLID.OpenClosePrincipal
 {
- 
 
-    class Uber
+
+    public class Uber
     {
         public double UberCar => 30;
         public int DeliveryMan => 1;
@@ -12,12 +12,12 @@ namespace Tiempo.Lab.SOLID.OpenClosePrincipal
 
     }
 
-    class SeftServices
+    public class SeftServices
     {
         public int DeliveryMan => 10;
     }
 
-    class Rappi
+    public class Rappi
     {
         public double RappiMotherCicle => 10;
         public int DeliveryMan => 1;
@@ -26,23 +26,20 @@ namespace Tiempo.Lab.SOLID.OpenClosePrincipal
 
     public class OrderFoodService
     {
-        public double GetCostAllTypeServices(Object[] orderFood,double priceFood)
+        public double GetCost(Object orderFood, double priceFood)
         {
             double cost = 0;
-            foreach (var order in orderFood)
+            switch (orderFood)
             {
-                switch (order)
-                {
-                    case Uber uber:
-                        cost = (priceFood * uber.DeliveryMan) + uber.UberCar + uber.Sat + uber.Taxes;
-                        break;
-                    case SeftServices seftServices:
-                        cost = (priceFood * seftServices.DeliveryMan);
-                        break;
-                    case Rappi rappi:
-                        cost = (priceFood + rappi.DeliveryMan) * rappi.RappiMotherCicle;
-                        break;
-                }
+                case Uber uber:
+                    cost = (priceFood * uber.DeliveryMan) + uber.UberCar + uber.Sat + uber.Taxes;
+                    break;
+                case SeftServices seftServices:
+                    cost = (priceFood * seftServices.DeliveryMan);
+                    break;
+                case Rappi rappi:
+                    cost = (priceFood + rappi.DeliveryMan) * rappi.RappiMotherCicle;
+                    break;
             }
 
             return cost;
