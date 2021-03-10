@@ -1,6 +1,6 @@
-﻿Milk, 20.00
-Bread, 30.00
-Eggs, 25.00
+﻿Milk 20.00
+Bread 30.00
+Eggs 25.00
 Oil 10.00
-Sugar, 5.00
-Alien, 6
+Sugar 5.00
+Alien 6
