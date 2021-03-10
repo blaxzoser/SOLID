@@ -10,6 +10,9 @@ namespace Tiempo.Lab.SOLID.TEST.OpenClose
     [TestFixture]
     public class OpenCloseSolutionTest
     {
+
+        #region Solution Food
+
         [Test]
         public void ShouldTakeAOrderAtUberEats()
         {
@@ -49,6 +52,8 @@ namespace Tiempo.Lab.SOLID.TEST.OpenClose
             Assert.That(cost > 34.00);
         }
 
+        #endregion
+       
         #region Solution Animal
         [Test]
         public void ShouldGenerateTicket()

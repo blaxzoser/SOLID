@@ -89,8 +89,6 @@ namespace Tiempo.OpenClose.Violations
                 }
                 animal.Ticket = newTicket;            
             }
-
-
             return string.Format("No.Ticket --{0}-- CheckOut:{1}", newTicket, checkOut.ToShortDateString());
         }
 
