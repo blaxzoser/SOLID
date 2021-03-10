@@ -1,0 +1,8 @@
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\LisvokPrinciple\Tiempo.Lisvok.Violations\bin\Debug\netcoreapp3.1\Tiempo.Lisvok.Violations.deps.json
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\LisvokPrinciple\Tiempo.Lisvok.Violations\bin\Debug\netcoreapp3.1\Tiempo.Lisvok.Violations.dll
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\LisvokPrinciple\Tiempo.Lisvok.Violations\bin\Debug\netcoreapp3.1\Tiempo.Lisvok.Violations.pdb
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\LisvokPrinciple\Tiempo.Lisvok.Violations\obj\Debug\netcoreapp3.1\Tiempo.Lisvok.Violations.AssemblyInfoInputs.cache
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\LisvokPrinciple\Tiempo.Lisvok.Violations\obj\Debug\netcoreapp3.1\Tiempo.Lisvok.Violations.AssemblyInfo.cs
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\LisvokPrinciple\Tiempo.Lisvok.Violations\obj\Debug\netcoreapp3.1\Tiempo.Lisvok.Violations.csproj.CoreCompileInputs.cache
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\LisvokPrinciple\Tiempo.Lisvok.Violations\obj\Debug\netcoreapp3.1\Tiempo.Lisvok.Violations.dll
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\LisvokPrinciple\Tiempo.Lisvok.Violations\obj\Debug\netcoreapp3.1\Tiempo.Lisvok.Violations.pdb

@@ -1226,14 +1226,24 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Tiempo.Lab.SOLID/1.0.0": {
+      "Tiempo.OpenClose.Solutions/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/Tiempo.Lab.SOLID.dll": {}
+          "bin/placeholder/Tiempo.OpenClose.Solutions.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Tiempo.Lab.SOLID.dll": {}
+          "bin/placeholder/Tiempo.OpenClose.Solutions.dll": {}
+        }
+      },
+      "Tiempo.OpenClose.Violations/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Tiempo.OpenClose.Violations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tiempo.OpenClose.Violations.dll": {}
         }
       }
     }
@@ -4604,10 +4614,15 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Tiempo.Lab.SOLID/1.0.0": {
+    "Tiempo.OpenClose.Solutions/1.0.0": {
       "type": "project",
-      "path": "../Tiempo.Lab.SOLID/Tiempo.Lab.SOLID.csproj",
-      "msbuildProject": "../Tiempo.Lab.SOLID/Tiempo.Lab.SOLID.csproj"
+      "path": "../OpenClosePrinciple/Tiempo.OpenClose.Solutions/Tiempo.OpenClose.Solutions.csproj",
+      "msbuildProject": "../OpenClosePrinciple/Tiempo.OpenClose.Solutions/Tiempo.OpenClose.Solutions.csproj"
+    },
+    "Tiempo.OpenClose.Violations/1.0.0": {
+      "type": "project",
+      "path": "../OpenClosePrinciple/Tiempo.OpenClose.Violations/Tiempo.OpenClose.Violations.csproj",
+      "msbuildProject": "../OpenClosePrinciple/Tiempo.OpenClose.Violations/Tiempo.OpenClose.Violations.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4615,7 +4630,8 @@
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
       "NUnit3TestAdapter >= 3.16.1",
-      "Tiempo.Lab.SOLID >= 1.0.0"
+      "Tiempo.OpenClose.Solutions >= 1.0.0",
+      "Tiempo.OpenClose.Violations >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4650,8 +4666,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\luis pintado\\source\\repos\\Tiempo.Lab.SOLID\\Tiempo.Lab.SOLID\\Tiempo.Lab.SOLID.csproj": {
-              "projectPath": "C:\\Users\\luis pintado\\source\\repos\\Tiempo.Lab.SOLID\\Tiempo.Lab.SOLID\\Tiempo.Lab.SOLID.csproj"
+            "C:\\Users\\luis pintado\\source\\repos\\Tiempo.Lab.SOLID\\OpenClosePrinciple\\Tiempo.OpenClose.Solutions\\Tiempo.OpenClose.Solutions.csproj": {
+              "projectPath": "C:\\Users\\luis pintado\\source\\repos\\Tiempo.Lab.SOLID\\OpenClosePrinciple\\Tiempo.OpenClose.Solutions\\Tiempo.OpenClose.Solutions.csproj"
+            },
+            "C:\\Users\\luis pintado\\source\\repos\\Tiempo.Lab.SOLID\\OpenClosePrinciple\\Tiempo.OpenClose.Violations\\Tiempo.OpenClose.Violations.csproj": {
+              "projectPath": "C:\\Users\\luis pintado\\source\\repos\\Tiempo.Lab.SOLID\\OpenClosePrinciple\\Tiempo.OpenClose.Violations\\Tiempo.OpenClose.Violations.csproj"
             }
           }
         }

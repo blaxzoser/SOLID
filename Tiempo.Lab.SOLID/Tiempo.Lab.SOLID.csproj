@@ -7,4 +7,13 @@
     <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\**" />
+    <Compile Remove="OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\**" />
+    <EmbeddedResource Remove="OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\**" />
+    <EmbeddedResource Remove="OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\**" />
+    <None Remove="OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\**" />
+    <None Remove="OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\**" />
+  </ItemGroup>
+
 </Project>

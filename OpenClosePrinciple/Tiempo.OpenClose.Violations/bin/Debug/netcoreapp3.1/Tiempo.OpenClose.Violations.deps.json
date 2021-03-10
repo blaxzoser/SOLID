@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tiempo.OpenClose.Violations/1.0.0": {
+        "runtime": {
+          "Tiempo.OpenClose.Violations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tiempo.OpenClose.Violations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

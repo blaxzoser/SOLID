@@ -7,13 +7,23 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="LisvokSubtitutionPrincipal\**" />
+    <Compile Remove="LisvokSubtitutionPrinciple\**" />
+    <EmbeddedResource Remove="LisvokSubtitutionPrincipal\**" />
+    <EmbeddedResource Remove="LisvokSubtitutionPrinciple\**" />
+    <None Remove="LisvokSubtitutionPrincipal\**" />
+    <None Remove="LisvokSubtitutionPrinciple\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="NUnit" Version="3.12.0" />
     <PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID.csproj" />
+    <ProjectReference Include="..\OpenClosePrinciple\Tiempo.OpenClose.Solutions\Tiempo.OpenClose.Solutions.csproj" />
+    <ProjectReference Include="..\OpenClosePrinciple\Tiempo.OpenClose.Violations\Tiempo.OpenClose.Violations.csproj" />
   </ItemGroup>
 
 </Project>

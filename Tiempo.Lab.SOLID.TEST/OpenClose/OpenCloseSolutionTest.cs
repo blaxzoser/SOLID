@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Text;
-using Tiempo.Lab.SOLID.OpenClosePrincipal.abstrac_sample.Tiempo.Lab.SOLID.OpenClosePrincipal;
+using Tiempo.OpenClose.Solutions;
 
 namespace Tiempo.Lab.SOLID.TEST.OpenClose
 {

@@ -1,0 +1,8 @@
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.OpenClose.Solutions\bin\Debug\netcoreapp3.1\Tiempo.OpenClose.Solutions.deps.json
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.OpenClose.Solutions\bin\Debug\netcoreapp3.1\Tiempo.OpenClose.Solutions.dll
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.OpenClose.Solutions\bin\Debug\netcoreapp3.1\Tiempo.OpenClose.Solutions.pdb
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.OpenClose.Solutions\obj\Debug\netcoreapp3.1\Tiempo.OpenClose.Solutions.AssemblyInfoInputs.cache
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.OpenClose.Solutions\obj\Debug\netcoreapp3.1\Tiempo.OpenClose.Solutions.AssemblyInfo.cs
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.OpenClose.Solutions\obj\Debug\netcoreapp3.1\Tiempo.OpenClose.Solutions.csproj.CoreCompileInputs.cache
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.OpenClose.Solutions\obj\Debug\netcoreapp3.1\Tiempo.OpenClose.Solutions.dll
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.OpenClose.Solutions\obj\Debug\netcoreapp3.1\Tiempo.OpenClose.Solutions.pdb

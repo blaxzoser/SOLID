@@ -1,0 +1,8 @@
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.OpenClose.Violations\bin\Debug\netcoreapp3.1\Tiempo.OpenClose.Violations.deps.json
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.OpenClose.Violations\bin\Debug\netcoreapp3.1\Tiempo.OpenClose.Violations.dll
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.OpenClose.Violations\bin\Debug\netcoreapp3.1\Tiempo.OpenClose.Violations.pdb
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.OpenClose.Violations\obj\Debug\netcoreapp3.1\Tiempo.OpenClose.Violations.AssemblyInfoInputs.cache
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.OpenClose.Violations\obj\Debug\netcoreapp3.1\Tiempo.OpenClose.Violations.AssemblyInfo.cs
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.OpenClose.Violations\obj\Debug\netcoreapp3.1\Tiempo.OpenClose.Violations.csproj.CoreCompileInputs.cache
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.OpenClose.Violations\obj\Debug\netcoreapp3.1\Tiempo.OpenClose.Violations.dll
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.OpenClose.Violations\obj\Debug\netcoreapp3.1\Tiempo.OpenClose.Violations.pdb

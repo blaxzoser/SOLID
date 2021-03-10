@@ -7,9 +7,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tiempo.Lab.SOLID", "Tiempo.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tiempo.Lab.SOLID.TEST", "Tiempo.Lab.SOLID.TEST\Tiempo.Lab.SOLID.TEST.csproj", "{0794C3FE-31AC-4763-BE7C-D8B9390D9D98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiempo.Console.OpenClosePrinciple.Violation", "Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrincipal.Violation\Tiempo.Console.OpenClosePrinciple.Violation.csproj", "{A98F96CA-7DFB-43A3-91AD-ACB41C4673ED}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OpenClosePrinciple", "OpenClosePrinciple", "{7DB57563-221D-401B-9C9B-D1A33948C155}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiempo.Console.OpenClosePrinciple.Solution", "Tiempo.Lab.SOLID\OpenClosePrincipal\Tiempo.Console.OpenClosePrinciple.Solution\Tiempo.Console.OpenClosePrinciple.Solution.csproj", "{1016B8C3-28D5-4C75-B3FB-2D2AAF2522A4}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SingleResposabilityPrinciple", "SingleResposabilityPrinciple", "{A4BE3677-8D5C-43BE-9173-50662E77EF6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiempo.OpenClose.Violations", "OpenClosePrinciple\Tiempo.OpenClose.Violations\Tiempo.OpenClose.Violations.csproj", "{52E7AB77-9738-4EAF-9AB3-7E0DE82E7349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiempo.OpenClose.Solutions", "OpenClosePrinciple\Tiempo.OpenClose.Solutions\Tiempo.OpenClose.Solutions.csproj", "{9ED890D8-8410-45EB-9F68-4217AC006AE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LisvokSubtitutionPrinciple", "LisvokSubtitutionPrinciple", "{02DC23CD-2CB0-43EA-8E47-EE296F7BAF4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiempo.Lisvok.Violations", "LisvokPrinciple\Tiempo.Lisvok.Violations\Tiempo.Lisvok.Violations.csproj", "{ADCA1087-14AB-4D1E-AAF2-709B5CC59039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiempo.Lisvok.Solutions", "LisvokPrinciple\Tiempo.Lisvok.Solutions\Tiempo.Lisvok.Solutions.csproj", "{98AD02C2-E554-43C4-9CD1-D22324F9ACFB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tiempo.Console.OpenClosePrinciple.Solution", "OpenClosePrinciple\Tiempo.Console.OpenClosePrinciple.Solution\Tiempo.Console.OpenClosePrinciple.Solution.csproj", "{54AC1F25-8CD5-4BBA-B6C9-F2A9E37F7F47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SingleResponsabilityPrinciple", "SingleResponsabilityPrinciple", "{FEEA17AE-ADD8-4546-B7D2-2E67D07B56DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tiempo.Console.OpenClosePrinciple.Violation", "OpenClosePrinciple\Tiempo.Console.OpenClosePrinciple.Violation\Tiempo.Console.OpenClosePrinciple.Violation.csproj", "{EF8340BE-5E7B-4316-B305-11369D703CF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,17 +41,41 @@ Global
 		{0794C3FE-31AC-4763-BE7C-D8B9390D9D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0794C3FE-31AC-4763-BE7C-D8B9390D9D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0794C3FE-31AC-4763-BE7C-D8B9390D9D98}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A98F96CA-7DFB-43A3-91AD-ACB41C4673ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A98F96CA-7DFB-43A3-91AD-ACB41C4673ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A98F96CA-7DFB-43A3-91AD-ACB41C4673ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A98F96CA-7DFB-43A3-91AD-ACB41C4673ED}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1016B8C3-28D5-4C75-B3FB-2D2AAF2522A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1016B8C3-28D5-4C75-B3FB-2D2AAF2522A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1016B8C3-28D5-4C75-B3FB-2D2AAF2522A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1016B8C3-28D5-4C75-B3FB-2D2AAF2522A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E7AB77-9738-4EAF-9AB3-7E0DE82E7349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E7AB77-9738-4EAF-9AB3-7E0DE82E7349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E7AB77-9738-4EAF-9AB3-7E0DE82E7349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E7AB77-9738-4EAF-9AB3-7E0DE82E7349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED890D8-8410-45EB-9F68-4217AC006AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED890D8-8410-45EB-9F68-4217AC006AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED890D8-8410-45EB-9F68-4217AC006AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED890D8-8410-45EB-9F68-4217AC006AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADCA1087-14AB-4D1E-AAF2-709B5CC59039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCA1087-14AB-4D1E-AAF2-709B5CC59039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCA1087-14AB-4D1E-AAF2-709B5CC59039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCA1087-14AB-4D1E-AAF2-709B5CC59039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98AD02C2-E554-43C4-9CD1-D22324F9ACFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AD02C2-E554-43C4-9CD1-D22324F9ACFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AD02C2-E554-43C4-9CD1-D22324F9ACFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AD02C2-E554-43C4-9CD1-D22324F9ACFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54AC1F25-8CD5-4BBA-B6C9-F2A9E37F7F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54AC1F25-8CD5-4BBA-B6C9-F2A9E37F7F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54AC1F25-8CD5-4BBA-B6C9-F2A9E37F7F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54AC1F25-8CD5-4BBA-B6C9-F2A9E37F7F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF8340BE-5E7B-4316-B305-11369D703CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8340BE-5E7B-4316-B305-11369D703CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8340BE-5E7B-4316-B305-11369D703CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8340BE-5E7B-4316-B305-11369D703CF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{52E7AB77-9738-4EAF-9AB3-7E0DE82E7349} = {7DB57563-221D-401B-9C9B-D1A33948C155}
+		{9ED890D8-8410-45EB-9F68-4217AC006AE8} = {7DB57563-221D-401B-9C9B-D1A33948C155}
+		{ADCA1087-14AB-4D1E-AAF2-709B5CC59039} = {02DC23CD-2CB0-43EA-8E47-EE296F7BAF4F}
+		{98AD02C2-E554-43C4-9CD1-D22324F9ACFB} = {02DC23CD-2CB0-43EA-8E47-EE296F7BAF4F}
+		{54AC1F25-8CD5-4BBA-B6C9-F2A9E37F7F47} = {7DB57563-221D-401B-9C9B-D1A33948C155}
+		{EF8340BE-5E7B-4316-B305-11369D703CF5} = {7DB57563-221D-401B-9C9B-D1A33948C155}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {03EA2FBC-307A-46A7-82BA-EAC810F6D8E0}
