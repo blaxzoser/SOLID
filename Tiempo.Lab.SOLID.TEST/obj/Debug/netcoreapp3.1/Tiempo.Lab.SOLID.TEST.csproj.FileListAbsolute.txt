@@ -98,3 +98,7 @@ C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID.TEST\obj\De
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID.TEST\obj\Debug\netcoreapp3.1\Tiempo.Lab.SOLID.TEST.dll
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID.TEST\obj\Debug\netcoreapp3.1\Tiempo.Lab.SOLID.TEST.pdb
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID.TEST\obj\Debug\netcoreapp3.1\Tiempo.Lab.SOLID.TEST.genruntimeconfig.cache
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID.TEST\bin\Debug\netcoreapp3.1\Tiempo.Lisvok.Solutions.dll
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID.TEST\bin\Debug\netcoreapp3.1\Tiempo.Lisvok.Violations.dll
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID.TEST\bin\Debug\netcoreapp3.1\Tiempo.Lisvok.Solutions.pdb
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID.TEST\bin\Debug\netcoreapp3.1\Tiempo.Lisvok.Violations.pdb

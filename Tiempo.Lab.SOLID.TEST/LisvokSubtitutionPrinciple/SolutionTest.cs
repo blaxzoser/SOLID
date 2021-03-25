@@ -1,7 +1,6 @@
 ﻿
 using NUnit.Framework;
-using Tiempo.Lab.SOLID.LisvokSubtitutionPrincipal;
-using Tiempo.Lab.SOLID.LisvokSubtitutionPrincipal.sample_calculator.Solution;
+using Tiempo.Lisvok.Solutions;
 
 namespace Tiempo.Lab.SOLID.TEST.LisvokSubtitutionPrincipal
 {

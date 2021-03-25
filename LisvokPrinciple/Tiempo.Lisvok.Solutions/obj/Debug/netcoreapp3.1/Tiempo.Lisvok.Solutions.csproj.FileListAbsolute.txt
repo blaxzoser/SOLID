@@ -6,3 +6,4 @@ C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\LisvokPrinciple\Tiempo.Lisvo
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\LisvokPrinciple\Tiempo.Lisvok.Solutions\obj\Debug\netcoreapp3.1\Tiempo.Lisvok.Solutions.csproj.CoreCompileInputs.cache
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\LisvokPrinciple\Tiempo.Lisvok.Solutions\obj\Debug\netcoreapp3.1\Tiempo.Lisvok.Solutions.dll
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\LisvokPrinciple\Tiempo.Lisvok.Solutions\obj\Debug\netcoreapp3.1\Tiempo.Lisvok.Solutions.pdb
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\LisvokPrinciple\Tiempo.Lisvok.Solutions\obj\Debug\netcoreapp3.1\Tiempo.Lisvok.Solutions.csprojAssemblyReference.cache

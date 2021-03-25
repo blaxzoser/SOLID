@@ -1,8 +1,7 @@
 ﻿
 using System;
 using NUnit.Framework;
-using Tiempo.Lab.SOLID.LisvokSubtitutionPrincipal;
-using Tiempo.Lab.SOLID.LisvokSubtitutionPrincipal.sample_calculator.violation;
+using Tiempo.Lisvok.Violations;
 
 namespace Tiempo.Lab.SOLID.TEST.LisvokSubtitutionPrincipal
 {
@@ -52,7 +51,7 @@ namespace Tiempo.Lab.SOLID.TEST.LisvokSubtitutionPrincipal
             Assert.AreEqual(45, sum.Calculate());
 
             SumCalculator evenSum = new EvenNumbersSumCalculator(numbers);
-            Assert.AreNotEqual(20, evenSum.Calculate());
+            Assert.AreEqual(45, evenSum.Calculate());
         }
     }
 }

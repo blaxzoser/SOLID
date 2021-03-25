@@ -8,11 +8,8 @@
 
   <ItemGroup>
     <Compile Remove="LisvokSubtitutionPrincipal\**" />
-    <Compile Remove="LisvokSubtitutionPrinciple\**" />
     <EmbeddedResource Remove="LisvokSubtitutionPrincipal\**" />
-    <EmbeddedResource Remove="LisvokSubtitutionPrinciple\**" />
     <None Remove="LisvokSubtitutionPrincipal\**" />
-    <None Remove="LisvokSubtitutionPrinciple\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -22,6 +19,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\LisvokPrinciple\Tiempo.Lisvok.Solutions\Tiempo.Lisvok.Solutions.csproj" />
+    <ProjectReference Include="..\LisvokPrinciple\Tiempo.Lisvok.Violations\Tiempo.Lisvok.Violations.csproj" />
     <ProjectReference Include="..\OpenClosePrinciple\Tiempo.OpenClose.Solutions\Tiempo.OpenClose.Solutions.csproj" />
     <ProjectReference Include="..\OpenClosePrinciple\Tiempo.OpenClose.Violations\Tiempo.OpenClose.Violations.csproj" />
   </ItemGroup>

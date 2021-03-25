@@ -1226,6 +1226,26 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
+      "Tiempo.Lisvok.Solutions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Tiempo.Lisvok.Solutions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tiempo.Lisvok.Solutions.dll": {}
+        }
+      },
+      "Tiempo.Lisvok.Violations/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Tiempo.Lisvok.Violations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tiempo.Lisvok.Violations.dll": {}
+        }
+      },
       "Tiempo.OpenClose.Solutions/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -4614,6 +4634,16 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
+    "Tiempo.Lisvok.Solutions/1.0.0": {
+      "type": "project",
+      "path": "../LisvokPrinciple/Tiempo.Lisvok.Solutions/Tiempo.Lisvok.Solutions.csproj",
+      "msbuildProject": "../LisvokPrinciple/Tiempo.Lisvok.Solutions/Tiempo.Lisvok.Solutions.csproj"
+    },
+    "Tiempo.Lisvok.Violations/1.0.0": {
+      "type": "project",
+      "path": "../LisvokPrinciple/Tiempo.Lisvok.Violations/Tiempo.Lisvok.Violations.csproj",
+      "msbuildProject": "../LisvokPrinciple/Tiempo.Lisvok.Violations/Tiempo.Lisvok.Violations.csproj"
+    },
     "Tiempo.OpenClose.Solutions/1.0.0": {
       "type": "project",
       "path": "../OpenClosePrinciple/Tiempo.OpenClose.Solutions/Tiempo.OpenClose.Solutions.csproj",
@@ -4630,6 +4660,8 @@
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
       "NUnit3TestAdapter >= 3.16.1",
+      "Tiempo.Lisvok.Solutions >= 1.0.0",
+      "Tiempo.Lisvok.Violations >= 1.0.0",
       "Tiempo.OpenClose.Solutions >= 1.0.0",
       "Tiempo.OpenClose.Violations >= 1.0.0"
     ]
@@ -4666,6 +4698,12 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\luis pintado\\source\\repos\\Tiempo.Lab.SOLID\\LisvokPrinciple\\Tiempo.Lisvok.Solutions\\Tiempo.Lisvok.Solutions.csproj": {
+              "projectPath": "C:\\Users\\luis pintado\\source\\repos\\Tiempo.Lab.SOLID\\LisvokPrinciple\\Tiempo.Lisvok.Solutions\\Tiempo.Lisvok.Solutions.csproj"
+            },
+            "C:\\Users\\luis pintado\\source\\repos\\Tiempo.Lab.SOLID\\LisvokPrinciple\\Tiempo.Lisvok.Violations\\Tiempo.Lisvok.Violations.csproj": {
+              "projectPath": "C:\\Users\\luis pintado\\source\\repos\\Tiempo.Lab.SOLID\\LisvokPrinciple\\Tiempo.Lisvok.Violations\\Tiempo.Lisvok.Violations.csproj"
+            },
             "C:\\Users\\luis pintado\\source\\repos\\Tiempo.Lab.SOLID\\OpenClosePrinciple\\Tiempo.OpenClose.Solutions\\Tiempo.OpenClose.Solutions.csproj": {
               "projectPath": "C:\\Users\\luis pintado\\source\\repos\\Tiempo.Lab.SOLID\\OpenClosePrinciple\\Tiempo.OpenClose.Solutions\\Tiempo.OpenClose.Solutions.csproj"
             },
@@ -4713,7 +4751,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }
