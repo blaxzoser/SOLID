@@ -1,7 +1,7 @@
-C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\obj\Debug\netstandard2.0\Tiempo.Lab.SOLID.csproj.CoreCompileInputs.cache
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\bin\Debug\netstandard2.0\Tiempo.Lab.SOLID.deps.json
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\bin\Debug\netstandard2.0\Tiempo.Lab.SOLID.dll
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\bin\Debug\netstandard2.0\Tiempo.Lab.SOLID.pdb
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\obj\Debug\netstandard2.0\Tiempo.Lab.SOLID.csprojAssemblyReference.cache
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\obj\Debug\netstandard2.0\Tiempo.Lab.SOLID.csproj.CoreCompileInputs.cache
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\obj\Debug\netstandard2.0\Tiempo.Lab.SOLID.dll
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\obj\Debug\netstandard2.0\Tiempo.Lab.SOLID.pdb
-C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\Tiempo.Lab.SOLID\obj\Debug\netstandard2.0\Tiempo.Lab.SOLID.csprojAssemblyReference.cache

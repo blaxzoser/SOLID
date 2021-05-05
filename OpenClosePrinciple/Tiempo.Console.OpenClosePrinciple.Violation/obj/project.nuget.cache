@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6J0zzjMrbp6heEwTcTDnU3fZ8+wYa4TQtTIXq2KumOjjOJXgBRyqtqoau+D8zPfqGMFUxqFelUpP+PMrm+B5vg==",
+  "dgSpecHash": "qeBN+DFSWOLpR5RDLTxX3NM+B+QMTVBoYRjUdchjqxfp7LG37B0qg6I2oWA3Nqw2M0umvn2wN56DtRRGqVuJlA==",
   "success": true,
   "projectFilePath": "C:\\Users\\luis pintado\\source\\repos\\Tiempo.Lab.SOLID\\OpenClosePrinciple\\Tiempo.Console.OpenClosePrinciple.Violation\\Tiempo.Console.OpenClosePrinciple.Violation.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\luis pintado\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -30,6 +30,7 @@ C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.Co
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.Console.OpenClosePrinciple.Violation\bin\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Violation.runtimeconfig.dev.json
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.Console.OpenClosePrinciple.Violation\bin\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Violation.dll
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.Console.OpenClosePrinciple.Violation\bin\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Violation.pdb
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.Console.OpenClosePrinciple.Violation\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Violation.csprojAssemblyReference.cache
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.Console.OpenClosePrinciple.Violation\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Violation.AssemblyInfoInputs.cache
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.Console.OpenClosePrinciple.Violation\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Violation.AssemblyInfo.cs
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.Console.OpenClosePrinciple.Violation\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Violation.csproj.CoreCompileInputs.cache

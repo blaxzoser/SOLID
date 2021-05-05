@@ -22,3 +22,4 @@ C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.Co
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.Console.OpenClosePrinciple.Solution\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Solution.dll
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.Console.OpenClosePrinciple.Solution\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Solution.pdb
 C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.Console.OpenClosePrinciple.Solution\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Solution.genruntimeconfig.cache
+C:\Users\luis pintado\source\repos\Tiempo.Lab.SOLID\OpenClosePrinciple\Tiempo.Console.OpenClosePrinciple.Solution\obj\Debug\netcoreapp3.1\Tiempo.Console.OpenClosePrinciple.Solution.csprojAssemblyReference.cache

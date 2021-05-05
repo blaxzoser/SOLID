@@ -15,15 +15,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tiempo.OpenClose.Solutions"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LisvokSubtitutionPrinciple", "LisvokSubtitutionPrinciple", "{02DC23CD-2CB0-43EA-8E47-EE296F7BAF4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiempo.Lisvok.Violations", "LisvokPrinciple\Tiempo.Lisvok.Violations\Tiempo.Lisvok.Violations.csproj", "{ADCA1087-14AB-4D1E-AAF2-709B5CC59039}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tiempo.Lisvok.Violations", "LisvokPrinciple\Tiempo.Lisvok.Violations\Tiempo.Lisvok.Violations.csproj", "{ADCA1087-14AB-4D1E-AAF2-709B5CC59039}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiempo.Lisvok.Solutions", "LisvokPrinciple\Tiempo.Lisvok.Solutions\Tiempo.Lisvok.Solutions.csproj", "{98AD02C2-E554-43C4-9CD1-D22324F9ACFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tiempo.Lisvok.Solutions", "LisvokPrinciple\Tiempo.Lisvok.Solutions\Tiempo.Lisvok.Solutions.csproj", "{98AD02C2-E554-43C4-9CD1-D22324F9ACFB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tiempo.Console.OpenClosePrinciple.Solution", "OpenClosePrinciple\Tiempo.Console.OpenClosePrinciple.Solution\Tiempo.Console.OpenClosePrinciple.Solution.csproj", "{54AC1F25-8CD5-4BBA-B6C9-F2A9E37F7F47}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SingleResponsabilityPrinciple", "SingleResponsabilityPrinciple", "{FEEA17AE-ADD8-4546-B7D2-2E67D07B56DA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tiempo.Console.OpenClosePrinciple.Violation", "OpenClosePrinciple\Tiempo.Console.OpenClosePrinciple.Violation\Tiempo.Console.OpenClosePrinciple.Violation.csproj", "{EF8340BE-5E7B-4316-B305-11369D703CF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple", "{DFDE4780-3257-42F8-84D6-C470519C41F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiempo.InterfaceSegregation.Solutions", "InterfaceSegregationPrinciple\Tiempo.InterfaceSegregation.Solutions\Tiempo.InterfaceSegregation.Solutions.csproj", "{0207DA75-19E2-4B18-A673-F264B0AC72B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiempo.InterfaceSegregation.Violations", "Tiempo.InterfaceSegregation.Violations\Tiempo.InterfaceSegregation.Violations.csproj", "{87D7767F-B106-4779-9DAB-38D249B13CFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,14 @@ Global
 		{EF8340BE-5E7B-4316-B305-11369D703CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF8340BE-5E7B-4316-B305-11369D703CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF8340BE-5E7B-4316-B305-11369D703CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0207DA75-19E2-4B18-A673-F264B0AC72B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0207DA75-19E2-4B18-A673-F264B0AC72B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0207DA75-19E2-4B18-A673-F264B0AC72B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0207DA75-19E2-4B18-A673-F264B0AC72B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D7767F-B106-4779-9DAB-38D249B13CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D7767F-B106-4779-9DAB-38D249B13CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D7767F-B106-4779-9DAB-38D249B13CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D7767F-B106-4779-9DAB-38D249B13CFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +88,8 @@ Global
 		{98AD02C2-E554-43C4-9CD1-D22324F9ACFB} = {02DC23CD-2CB0-43EA-8E47-EE296F7BAF4F}
 		{54AC1F25-8CD5-4BBA-B6C9-F2A9E37F7F47} = {7DB57563-221D-401B-9C9B-D1A33948C155}
 		{EF8340BE-5E7B-4316-B305-11369D703CF5} = {7DB57563-221D-401B-9C9B-D1A33948C155}
+		{0207DA75-19E2-4B18-A673-F264B0AC72B5} = {DFDE4780-3257-42F8-84D6-C470519C41F1}
+		{87D7767F-B106-4779-9DAB-38D249B13CFC} = {DFDE4780-3257-42F8-84D6-C470519C41F1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {03EA2FBC-307A-46A7-82BA-EAC810F6D8E0}
